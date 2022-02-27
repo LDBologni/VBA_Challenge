@@ -33,10 +33,14 @@ After refactored
 Both time results are imperceivable for the human being.
 
 For the year 2018 before refactored
+
 ![Running_Code_Time_2018_Before_Refactored](https://user-images.githubusercontent.com/98929742/155903251-e36c00b4-2878-4a8d-9deb-8e494742693b.JPG)
 
+
 After refactored
+
 ![Running_Code_Time_2018_Refactored](https://user-images.githubusercontent.com/98929742/155903258-e59ba7bd-a439-4020-aaef-0e99900c13c5.JPG)
+
 
 Same results as the 2017. Because of the size of the file, the run time is very short and imperceivable by humans, but in large data sets the gap difference could increase between them. I would make sense that the refactored code takes longer time than the not refactored, because we are adding loops in the code and that would require more processing time. 
 
