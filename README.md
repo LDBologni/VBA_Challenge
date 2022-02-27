@@ -1,10 +1,10 @@
 # VBA_Challenge
 
-##Overview of the Project
+## Overview of the Project
 
 The purpose of the project is to analyze the information on a set of stocks from the years 2017 and 2018. The analysis was completed by using VBA to automate calculation tasks and provide information on green alternative energy stocks to potentially invest in (DQ). 
 
-##Results
+## Results
 
 The data set contains two sets of data for over two years 2017 and 2018. By using VBA, the information is pulled from the two worksheets (2017 and 2018) that contained the stock information for twelve companies. 
 
