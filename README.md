@@ -47,6 +47,11 @@ Both time results are imperceivable for the human being.
 
 Same results as the 2017. Because of the size of the file, the run time is very short and imperceivable by humans, but in large data sets the gap difference could increase between them. I would make sense that the refactored code takes longer time than the not refactored, because we are adding loops in the code and that would require more processing time. 
 
+## Summary
+
+As previously explained, it would depend on how the code is going to be refactored. Meaning that more tasks could be added, or tasks could be removed. Having a base code would reduce the amount of time typing the code but adding more and more tasks might cause that the base code would no longer work.
+
+In this cause, refactored the code did not interfere with the purpose of the project, in fact it helps displaying the data better for the user, a downside is that it affected the processing time, but since the data sheet is not big enough it would not cause a problem.
 
 
 
