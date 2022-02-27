@@ -23,7 +23,7 @@ As the graph shows, the year 2017 had a positive return in the majority of stock
 
 As the graph shows, the year 2018 had a negative return in the majority of stocks (ENPH, RUN Positive). Providing an average return of -8.5%, meaning that it was a bad year for investors of green alternative energy. DQ had a drop of 62.6% return. This could be caused due to new alternative energy sources, or the green alternative energy is not as efficient as it was expected.
 
-By refactoring the code the results are as follow:
+### By refactored the code the results are as follow:
 
 - For the year 2017 before refactored
 
