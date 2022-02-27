@@ -25,7 +25,8 @@ As the graph shows, the year 2018 had a negative return in the majority of stock
 
 By refactoring the code the results are as follow:
 
--For the year 2017 before refactored
+- For the year 2017 before refactored
+
 ![Running_Code_Time_2017_Before_Refactored](https://user-images.githubusercontent.com/98929742/155901310-223fce9a-eaac-4ccc-a17c-a3006abeaea6.JPG)
 
 - After refactored
@@ -34,12 +35,12 @@ By refactoring the code the results are as follow:
 
 Both time results are imperceivable for the human being.
 
--For the year 2018 before refactored
+- For the year 2018 before refactored
 
 ![Running_Code_Time_2018_Before_Refactored](https://user-images.githubusercontent.com/98929742/155903251-e36c00b4-2878-4a8d-9deb-8e494742693b.JPG)
 
 
--After refactored
+- After refactored
 
 ![Running_Code_Time_2018_Refactored](https://user-images.githubusercontent.com/98929742/155903258-e59ba7bd-a439-4020-aaef-0e99900c13c5.JPG)
 
