@@ -11,13 +11,13 @@ The data set contains two sets of data for over two years 2017 and 2018. By usin
 The information is provided as follows, company’s ticker, date of exchange with the opening price, the highest and lowest price for the day, closing price the adjusted close and the volume traded. 
 The macro provided the results of companies with the information previously given. The user must choose the year in order to get the results.
 
-The result for the 2017 is as follow (See graph)
+### The result for the 2017 is as follow (See graph)
 
 ![VBA_Challenge_2017_Results](https://user-images.githubusercontent.com/98929742/155899324-19593232-69fc-4863-95de-cdc4163991ce.JPG)
 
 As the graph shows, the year 2017 had a positive return in the majority of stocks (TERP Negative). Providing an average return of 67.3%, meaning that it was a good year for investors of green alternative energy. DQ had an impressive 199.4% return, which is no surprise why Steve’s parents would want to invest in.
 
-The result for the 2018 is as follow (See graph)
+### The result for the 2018 is as follow (See graph)
 
 ![VBA_Challenge_2018_Results](https://user-images.githubusercontent.com/98929742/155899971-377ee606-b626-4e4d-a0fa-d300e64ae18e.JPG)
 
