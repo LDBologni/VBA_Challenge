@@ -47,7 +47,7 @@ Both time results are imperceivable for the human being.
 ![Running_Code_Time_2018_Refactored](https://user-images.githubusercontent.com/98929742/157146126-e8d5836d-c4e0-4d4d-af44-25fcc4fd7b3c.JPG)
 
 
-Same results as the 2017. Because of the size of the file, the run time is very short and imperceivable by humans, but in large data sets the gap difference could increase between them. It makes sense that the refactored code takes longer time than the not refactored, because we are adding loops in the code and that would require more processing time. 
+Same results as the 2017. Because of the size of the file, the run time is very short and imperceivable by humans, but in large data sets the gap difference could increase between them. It makes sense that the refactored code takes a shorter time than the not refactored, because we are streamlining the loop in the code, meaning that the code would not have to run a loop after another, which requires more processing time, hence longer running time. 
 
 ## Summary
 
