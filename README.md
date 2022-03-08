@@ -27,22 +27,24 @@ As the graph shows, the year 2018 had a negative return in the majority of stock
 
 - For the year 2017 before refactored
 
-![Running_Code_Time_2017_Before_Refactored](https://user-images.githubusercontent.com/98929742/155901310-223fce9a-eaac-4ccc-a17c-a3006abeaea6.JPG)
+![Running_Code_Time_2017_Before_Refactored](https://user-images.githubusercontent.com/98929742/157146071-69ceb84b-0cdf-4438-b062-277154478d8b.JPG)
+
 
 - After refactored
 
-![Running_Code_Time_2017_Refactored](https://user-images.githubusercontent.com/98929742/155901325-3fb7f68b-7365-46c9-abe3-89a8368890e9.JPG)
+![Running_Code_Time_2017_Refactored](https://user-images.githubusercontent.com/98929742/157146099-fd35060c-f210-4c0e-9dce-63373bce6afb.JPG)
+
 
 Both time results are imperceivable for the human being.
 
 - For the year 2018 before refactored
 
-![Running_Code_Time_2018_Before_Refactored](https://user-images.githubusercontent.com/98929742/155903251-e36c00b4-2878-4a8d-9deb-8e494742693b.JPG)
+![Running_Code_Time_2018_Before_Refactored](https://user-images.githubusercontent.com/98929742/157146113-6864c6b6-1dab-47bf-9e20-4676ac9091d8.JPG)
 
 
 - After refactored
 
-![Running_Code_Time_2018_Refactored](https://user-images.githubusercontent.com/98929742/155903258-e59ba7bd-a439-4020-aaef-0e99900c13c5.JPG)
+![Running_Code_Time_2018_Refactored](https://user-images.githubusercontent.com/98929742/157146126-e8d5836d-c4e0-4d4d-af44-25fcc4fd7b3c.JPG)
 
 
 Same results as the 2017. Because of the size of the file, the run time is very short and imperceivable by humans, but in large data sets the gap difference could increase between them. It makes sense that the refactored code takes longer time than the not refactored, because we are adding loops in the code and that would require more processing time. 
