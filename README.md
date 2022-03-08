@@ -51,7 +51,7 @@ Same results as the 2017. Because of the size of the file, the run time is very 
 
 ## Summary
 
-As previously explained, it would depend on how the code is going to be refactored, meaning that more tasks could be added, or tasks could be removed. Having a base code would reduce the amount of time typing the code but adding more and more tasks might cause that the base code would no longer work.
+As previously explained, the benefits of refactoring a code would depend on how the code is going to be refactored, meaning that more tasks could be added, or tasks could be removed. Having a base code would reduce the amount of time typing the code but adding more and more tasks might cause that the base code would no longer work.
 
 In this case, the refactored code did not interfere with the purpose of the project, in fact it helped displaying the data and the code better for the user, a downside is that even though it reduced the processing time, it did not have a great impact in the processing time due to the size of the data set.
 
